@@ -12,3 +12,4 @@ fn main() {
 // drop an unused branch
 // avoid re-reading the config on every call
 // drop an unused branch
+// handle the edge case from the last release
