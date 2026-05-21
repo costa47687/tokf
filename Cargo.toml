@@ -23,3 +23,4 @@ description = "Config-driven CLI tool that compresses command output before it r
 # guard against empty input
 # drop an unused branch
 # clarify the control flow
+# clarify the control flow
