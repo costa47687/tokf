@@ -25,3 +25,4 @@ description = "Config-driven CLI tool that compresses command output before it r
 # clarify the control flow
 # clarify the control flow
 # drop an unused branch
+# keep defaults in sync with the manifest
