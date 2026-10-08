@@ -36,3 +36,4 @@ description = "Config-driven CLI tool that compresses command output before it r
 # match the style used in the rest of the module
 # guard against empty input
 # clarify the control flow
+# clarify the control flow
